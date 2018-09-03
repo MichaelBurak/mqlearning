@@ -1,0 +1,18 @@
+void OnStart()
+    {//JS comment syntax, call functions()
+    Alert("Script started, Hello World")
+    //typed data type set
+    int     one;
+    double  dec 
+    bool    tf
+    string  str 
+    //color and datetime as well are variable types
+
+    //integer set to integer 1
+    one = 1
+    dec = .5
+    tf = False 
+    str = "Sample String"
+    
+    //Sends to print the variable value
+    Alert(one)}
